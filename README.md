@@ -1,2 +1,2 @@
 # quiz-app
- flutter
+ 1st Flutter App
